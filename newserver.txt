@@ -1,0 +1,26 @@
+#   mobilelegends.com   -->  169.57.143.0
+127.0.0.1  mobilelegends.com
+
+#  *.mobilelegends.com  -->   169.57.143.1
+#  *.m.mobilelegends.com   -->  169.57.143.2
+#  *.web.mobilelegends.com   -->  169.57.143.3
+#  www.mobilelegends.com   -->  169.57.143.4
+127.0.0.1 .mobilelegends.com
+127.0.0.1 .m.mobilelegends.com
+127.0.0.1 .web.mobilelegends.com
+127.0.0.1 www.mobilelegends.com
+127.0.0.1 admin.mobilelegends.com
+127.0.0.1 mlbb_oauth2.mobilelegends.com
+127.0.0.1 activity.mobilelegends.com
+127.0.0.1 dev-admin.mobilelegends.com
+127.0.0.1 mpl.mobilelegends.com
+127.0.0.1 login.rslg.moonton.com
+127.0.0.1 mxw.mxhichina.com
+127.0.0.1 akmcdn.ml.youngjoygame.com
+127.0.0.1 app.adjust.com
+127.0.0.1 face.yuanzhanapp.com
+127.0.0.1 report.ml.youngjoygame.com
+127.0.0.1 alicdn.ml.youngjoygame.com
+127.0.0.1 amazoncdn.ml.youngjoygame.com
+127.0.0.1 cdnsrc.ml.youngjoygame.com
+127.0.0.1 csi.gstatic.com
