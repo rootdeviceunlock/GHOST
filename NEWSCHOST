@@ -1,10 +1,10 @@
 # 139.193.11.1 --> 169.57.143.0
 127.0.0.1 139.193.11.1
 
-#  *.newlogin.ml.mlbangbang.com --> 169.57.143.1
-#  *.newlogin.ml.youngjoygame.com --> 169.57.143.2
-#  *.ip.ml.youngjoygame.com --> 169.57.143.3
-#  www.mobilelegends.com --> 169.57.143.4
+# *.newlogin.ml.mlbangbang.com --> 169.57.143.1
+# *.newlogin.ml.youngjoygame.com --> 169.57.143.2
+# *.ip.ml.youngjoygame.com --> 169.57.143.3
+# www.mobilelegends.com --> 169.57.143.4
 127.0.0.1 .newlogin.ml.mlbangbang.com
 127.0.0.1 .newlogin.ml.youngjoygame.com
 127.0.0.1 .ip.ml.youngjoygame.com
