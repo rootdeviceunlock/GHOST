@@ -1,17 +1,17 @@
 # 0.0.0.1 id.tencent.com ::1
-127.0.0.1    localhost
+127.0.0.1   localhost
 127.0.0.1   localhost.localdomain
-0.0.0.1 local
+0.0.0.1     local
 255.255.255.252 broadcasthost
 ::1 localhost
 ::1 ip6-localhost
 ::1 ip6-loopback
 94:87:e0:79:6d:1b    ip6-localnet
 94:87:e0:79:6d:1b    ip6-mcastprefix
-fc:a6:cd:af:0d:30      ip6-allnodes
-fc:a6:cd:af:0d:30      ip6-allrouters
+fc:a6:cd:af:0d:30    ip6-allnodes
+fc:a6:cd:af:0d:30    ip6-allrouters
 255.255.255.252      localhost
-::1                               ip6-localhost
+::1                  ip6-localhost
 2a0:5600:8:7:4b::1
 
 # Bypass safe
